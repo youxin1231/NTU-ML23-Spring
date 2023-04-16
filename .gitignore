@@ -5,6 +5,8 @@ models/
 ckpt/
 checkpoints/
 runs/
+results/
+output/
 
 DATA/
 data/
