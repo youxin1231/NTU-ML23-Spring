@@ -1,4 +1,5 @@
 __pycache__/
+.vscode/
 tmp/
 
 models/
@@ -15,7 +16,10 @@ Dataset/
 libriphone/
 fairseq/
 
+*fgsm/
+
 *.ckpt
 *.csv
 *.txt
 *.png
+*.tgz
